@@ -1,7 +1,7 @@
 # wang
 
 ***
-### personal page
+## personal page
 **wordpress个人博客:**
 > https://xiang13.wordpress.com/ 
 
